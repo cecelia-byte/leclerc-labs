@@ -10,6 +10,15 @@ any driver.
 
 Current UI version badge: **v0.9**.
 
+## Deployed links
+
+- **Website (Vercel):** https://leclerc-labs.vercel.app
+- **API health (Render):** https://leclerc-labs-api.onrender.com/api/health
+- **GitHub:** https://github.com/cecelia-byte/leclerc-labs
+
+Both deployments use free tiers with no payment details. Render may sleep when
+unused, so the first request after idle can take about a minute.
+
 ## What it does
 
 - Pick a season, Grand Prix and session (Practice, Qualifying or Race).
